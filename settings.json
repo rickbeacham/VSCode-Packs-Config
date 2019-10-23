@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "One Dark Pro Vivid",
+    "window.zoomLevel": 3,
+    "editor.fontSize": 20,
+    "editor.fontFamily": "Helvetica, Monaco, 'Courier New', monospace",
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "editor.colorDecorators": false,
+    "terminal.integrated.fontSize": 16,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.formatOnSave": false,
+    "prettier.jsxBracketSameLine": true,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    }
+}
