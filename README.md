@@ -1,8 +1,8 @@
 # VSCode-Packs-Config
-Backup of package.json, settings.json, and product.json.  List of open source packages I use in VSCode. 
 
+Backup of package.json, settings.json, and product.json. List of open source packages I use in VSCode.
 
-Extensisons: 
+Extensisons:
 bat
 clojure
 coffeescript
@@ -78,3 +78,17 @@ typescript-language-features
 vb
 xml
 yaml
+
+Node Modules:
+vsda
+vscode-sqlite3
+vscode-ripgrep
+spdlog
+oniguruma
+nsfw
+node-pty
+native-watchdog
+native-keymap
+native-is-elevated
+keytar
+fsevents
